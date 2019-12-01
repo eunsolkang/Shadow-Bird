@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 4.3.7.2 (Linux)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="00:00:00"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src="../gfw/preLoader.js"></script>
+	<script src="../gfw/InputSystem.js"></script>
+	<script src="../gfw/Timer.js"></script>
+	<script src="../gfw/DebugSystem.js"></script>
+	<script src="../gfw/GameFramework.js"></script>
+	<script src="../gfw/FrameCounter.js"></script>
+	<script src="../gfw/FrameCounter.js"></script>
+	<script src="../gfw/SpriteAnimation.js"></script>
+	<script src="../gfw/frameworkInit.js"></script>
+	<script src="../gfw/FrameSkipper.js"></script>
+	<script src="../gfw/CanvasCode.js"></script>
+	<script src="../gfw/GraphicObject.js"></script>
+	<script src="../gfw/soundManager.js"></script>
+	<script src="../mobile.js"></script>
+	<script src="../PG_Boss.js"></script>
+	<script src="../PG_Player.js"></script>
+	<script src="../RS_GamePlay.js"></script>
+	<script src="../RS_Title.js"></script>
+	<script src="../RS_Over.js"></script>
+	<script src="../PG_UI.js"></script>
+	<script src="../PG_Background.js"></script>
+	<script src="../PG_PlayGround.js"></script>
+	<script src="../PG_BottomPlayGround.js"></script>
+	<script src="../PG_TopPlayGround.js"></script>
+	<script src="../PG_Item.js"></script>
+</head>
+<body lang="en-US" dir="ltr" style="background: transparent; border: none; padding: 0in">
+<p align="center" style="margin-bottom: 0in">HTML CANVAS<font face="DejaVu Sans"><span lang="zh-CN">&#47484;
+&#51648;&#50896;&#54616;&#51648; &#50506;&#49845;&#45768;&#45796;</span></font>.
+</p>
+<p style="margin-bottom: 0in"><script language="javascript">
+
+
+</script><br/>
+
+</p>
+</body>
+</html>
